@@ -1,4 +1,4 @@
-👩‍🦱 18yo
+👩‍🦱 18yo <br>
 💻 working on programming <br>
 👨‍💻 studying systems development 
 <div align="center">
