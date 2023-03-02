@@ -4,7 +4,7 @@
 <div align="center">
   <a href=https://github.com/"rrgassis">
 </div>
-<div style="align=center","display: inline_block"><br>
+<div style="align=center","display: block"><br>
    <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
