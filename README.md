@@ -4,6 +4,14 @@
 <div align="center">
   <a href=https://github.com/"rrgassis">
 </div>
+<div align="center">
+<div style="display: flex; justify-content: space-between;">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rrgassis&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rrgassis's Stats">
+  
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=rrgassis&show_icons=true&hide_border=true&theme=tokyonight" width="37%" alt="rrgassis's Top Languages">
+</div>
+</div>
 <div style="align=center","display: block"><br>
    <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img align="center" height="80" width="80" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -25,8 +33,8 @@
    <img align="center" height="80" width="80" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />      
    <img align="center" height="80" width="80" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
    <img align="center" height="80" width="80" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-          
-           
+</div>
+  
           
           
           
