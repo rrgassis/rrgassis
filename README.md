@@ -1,6 +1,17 @@
-👩‍🦱 18yo <br>
-💻 working on programming <br>
-👨‍💻 studying systems development 
+<p>
+  <h1 align="center"><b> Whats up, dev?👋</b></h1>
+</p>
+<p>
+  <h4 align="center"><b>Know me:<b></h4>
+</p>
+   
+<img align="right" height="270px" alt="GIF" src="https://media.tenor.com/96ydiYB2lkkAAAAS/developers-fuck.gif" />
+
+ ### I am a systems developer  
+- 👩‍🦱 I'm 18yo <br>
+- 💻 working on programming <br>
+- 📚 studying systems development 
+    
 <div align="center">
   <a href=https://github.com/"rrgassis">
 </div>
@@ -33,7 +44,16 @@
    <img align="center" height="80" width="80" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />      
    <img align="center" height="80" width="80" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
    <img align="center" height="80" width="80" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-</div>
+  </div>
+  <p>
+  <h1 align="center"><b> Contact me!</b></h1>
+</p>
+ <p align="center">
+<br>
+<a href="https://br.linkedin.com/in/rafaelaraiany"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:rrgassis53@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="https://www.instagram.com/https_lela"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;</a>&nbsp;
+</p>
   
           
           
