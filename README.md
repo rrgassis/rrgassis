@@ -5,8 +5,6 @@
   <h4 align="center"><b>Know me:<b></h4>
 </p>
    
-<img align="right" height="270px" alt="GIF" src="https://media.tenor.com/96ydiYB2lkkAAAAS/developers-fuck.gif" />
-
  ### I am a systems developer  
 - 👩‍🦱 I'm 18yo <br>
 - 💻 working on programming <br>
@@ -20,8 +18,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=rrgassis&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="rrgassis's Stats">
   
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=rrgassis&show_icons=true&hide_border=true&theme=tokyonight" width="37%" alt="rrgassis's Top Languages">
-</div>
 </div>
 <div style="align=center","display: block"><br>
    <img align="center" height="80" width="90" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
