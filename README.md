@@ -5,8 +5,7 @@
   <h4 align="center"><b>Know me:<b></h4>
 </p>
    
- <p align="center" >I am a systems developer <br>
-- 👩‍🦱 I'm 18yo <br>
+ <p align="center" > - 👩‍🦱 I'm a software developer, 18yo <br>
 - 💻 working on programming <br>
 - 📚 studying systems development </p>
     
