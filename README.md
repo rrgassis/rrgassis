@@ -5,10 +5,10 @@
   <h4 align="center"><b>Know me:<b></h4>
 </p>
    
- ### I am a systems developer  
+ <p align="center" >I am a systems developer <br>
 - 👩‍🦱 I'm 18yo <br>
 - 💻 working on programming <br>
-- 📚 studying systems development 
+- 📚 studying systems development </p>
     
 <div align="center">
   <a href=https://github.com/"rrgassis">
